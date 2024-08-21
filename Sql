@@ -13,3 +13,7 @@ For example, the following SQL statement uses a SQL INSERT command to store Matt
 INSERT INTO Mattress_table (brand_name, cost)
 
 VALUES(‘A’,’499’);
+
+
+What is NoSQL?
+NoSQL refers to non-relational databases that don't use tables to store data. Developers store information in different types of NoSQL databases, including graphs, documents, and key-values. NoSQL databases are popular for modern applications because they are horizontally scalable. Horizontal scaling means increasing the processing power by adding more computers that run NoSQL software.
